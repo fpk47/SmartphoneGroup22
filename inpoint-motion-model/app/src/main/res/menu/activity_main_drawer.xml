@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_localization"
+            android:icon="@drawable/ic_location"
+            android:title="Localization" />
+        <item
+            android:id="@+id/nav_training"
+            android:icon="@drawable/ic_action_save"
+            android:title="Training" />
+        <item
+            android:id="@+id/nav_activity_training"
+            android:icon="@drawable/ic_action_save"
+            android:title="Activity Training" />
+    </group>
+
+</menu>
